@@ -1,8 +1,8 @@
-# Design Document: DevMentor - AI Pair Programming for Solo Learners
+# Design Document: Code Obsidian - AI Pair Programming for Solo Learners
 
 ## 📋 Document Information
 
-**Project Name:** DevMentor  
+**Project Name:** Code Obsidian  
 **Version:** 1.0 - Hackathon MVP  
 **Date:** February 14, 2026  
 **Track:** [Student Track] AI for Learning & Developer Productivity  
